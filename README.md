@@ -1,16 +1,11 @@
-<div align="center">
-    <a href="https://maurogioberti.com" target="_blank">
-        <img alt="Mauro Gioberti" src="https://maurogioberti.com/maurogioberti.png" width="140" />
-    </a>
-</div>
 <h2 align="center">
-    Hi there! 👋 I'm Mauro Gioberti
+    Hi human! 👋 🤖
 </h2>
 <p align="center">
-    Welcome to my GitHub profile! 🚀<br />
-    <a href="https://github.com/maurogioberti/stargazers">⭐ Stars are welcome 😊</a>
-    <a href="https://github.com/maurogioberti/issues">🐛 Report an issue</a>
-    <a href="https://maurogioberti.com">🌐 Visit my site</a>
+    Welcome to my GitHub profile, where magic happens! ✨💻<br />
+    <a href="https://github.com/maurogioberti/stargazers">⭐ Drop a star 😊</a>
+    <a href="https://github.com/maurogioberti/sponsors">❤️ Want to give me money? 💸</a>
+    <a href="https://maurogioberti.com">🛸 Visit my geeky safe space 🌌🌠</a>
 </p>
 <p align="center">
     <a href="https://www.linkedin.com/in/maurogioberti/" target="_blank">
