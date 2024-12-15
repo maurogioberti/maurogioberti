@@ -26,6 +26,7 @@
         <h3>🚀 Projects</h3>
         <ul>
             <li><b><a href="https://github.com/maurogioberti/maurogioberti.github.io">My Website</a></b>: Personal portfolio built with <b>Next.js Clean Architecture Template</b>.</li>
+            <li><b><a href="https://github.com/maurogioberti/microservice-appointments">Microservice Appointments</a></b>: It’s all about testing, automation, and making developers think from a quality-first perspective.</li>
             <li><b><a href="https://github.com/maurogioberti/next-clean-architecture">Next.js Clean Architecture</a></b>: Clean Architecture template for scalable <b>Next.js</b> projects.</li>
             <li><b><a href="https://github.com/maurogioberti/textprocessor-poc">Text Processor PoC</a></b>: A <b>.NET 8</b> application with a flexible architecture, clean design patterns, and integrated .NET Core automation.</li>
             <li><b><a href="https://github.com/maurogioberti/todo-list-ddd-cqrs-poc">Todo List DDD CQRS PoC</a></b>: Exploration into <b>Domain-Driven Design (DDD)</b> and <b>CQRS</b> patterns.</li>
